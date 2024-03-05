@@ -1,3 +1,1 @@
-Testando o git
-Testando de novo
-Mais um teste amigo
+Testando aprendizados de Git e Github
